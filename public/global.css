@@ -1,0 +1,25 @@
+body {
+  font-size: 20px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+input, button {
+  border-radius: 1em;
+}
+
+button {
+  background-color: #ffffff;
+  border-color: #000000;
+  color: #000000;
+}
+
+button:active,
+button:focus,
+button:hover {
+  background-color: #ffccff;
+  border-color: #660066;
+  color: #660066;
+}
